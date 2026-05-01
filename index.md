@@ -12,13 +12,13 @@ title: James Chandler Zachary
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)
 
 ### 2024–2025
-[Food manufacturing](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110211)
-[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378)
-[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110567)
-[Farm share components](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110700)
-[Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110871)
-[Food-at-home and food-away-from-home primary factor bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=111258)
-[Imports](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=112543)
+[Food manufacturing](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110211)<br>
+[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378)<br>
+[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110567)<br>
+[Farm share components](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110700)<br>
+[Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110871)<br>
+[Food-at-home and food-away-from-home primary factor bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=111258)<br>
+[Imports](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=112543)<br>
 
 ### 2023–2024
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107830)
