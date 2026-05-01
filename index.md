@@ -8,9 +8,9 @@ Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consu
 Rehkamp, S., & Zachary, J.C. (2024). Estimating U.S. Subnational Freshwater Withdrawals by Water Use Category from 1995 to 2021. Water Resources Management, 38(14): 5615-5628. <https://doi.org/10.1007/s11269-024-03924-7>
 
 ## ERS Reports
-Baker, Q., & Zachary, J.C. (2026). A More Detailed Food Dollar: Enhanced Accounting of U.S. Food Costs. U.S. Department of Agriculture, Economic Research Service, ERR-357.<https://ers.usda.gov/sites/default/files/_laserfiche/publications/113905/ERR-357.pdf?v=89440>
+Baker, Q., & Zachary, J.C. (2026). A More Detailed Food Dollar: Enhanced Accounting of U.S. Food Costs. U.S. Department of Agriculture, Economic Research Service, ERR-357. <https://ers.usda.gov/sites/default/files/_laserfiche/publications/113905/ERR-357.pdf?v=89440>
 
-Rehkamp, S., Zachary, J.C., Baker, Q., & Canning, P. (2026). Documentation for the Agri-Food Economic Data System (Ag-FEDS): Multiplier Model Applications. U.S. Department of Agriculture, Economic Research Service, TB-1973.<https://www.ers.usda.gov/publications/pub-details?pubid=113876>
+Rehkamp, S., Zachary, J.C., Baker, Q., & Canning, P. (2026). Documentation for the Agri-Food Economic Data System (Ag-FEDS): Multiplier Model Applications. U.S. Department of Agriculture, Economic Research Service, TB-1973. <https://www.ers.usda.gov/publications/pub-details?pubid=113876>
 
 ## ERS Amber Waves
 [Food dollar, 2023](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)
