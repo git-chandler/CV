@@ -13,9 +13,9 @@ Baker, Q., & Zachary, J.C. (2026). A More Detailed Food Dollar: Enhanced Account
 Rehkamp, S., Zachary, J.C., Baker, Q., & Canning, P. (2026). Documentation for the Agri-Food Economic Data System (Ag-FEDS): Multiplier Model Applications. U.S. Department of Agriculture, Economic Research Service, TB-1973. <https://www.ers.usda.gov/publications/pub-details?pubid=113876>
 
 ## ERS Amber Waves
-[Food dollar, 2023](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)
+ERS Food Dollar's Three Series Show Distributions of U.S. Food Production Costs <https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs>
 
-[Food price inflation, 2023](https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers)
+ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers <https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers>
 
 ## ERS Charts of Note
 ### 2025–2026
