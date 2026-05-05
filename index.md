@@ -23,7 +23,6 @@ ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers 
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)
 
 ### 2025
-<!-- FY2026 -->
 [Imports](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=112543)<br>
 [Food-at-home and food-away-from-home primary factor bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=111258)<br>
 [Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110871)<br>
@@ -33,23 +32,20 @@ ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers 
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110567)<br>
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378)<br>
 [Food manufacturing](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110211)<br>
-<!--FY2025-->
 [Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=109072)<br>
 [Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=108731)<br>
 [Farm share components](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=108346)<br>
 
 ### 2023
-[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107830)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=108049)<br>
-<!-- FY2023 -->
-[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105281)<br>
-[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105572)<br>
-[Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105730)<br>
+[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107830)<br>
 [Food manufacturing sales](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=106387)<br>
 [Food manufacturing employment](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=106049)<br>
+[Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105730)<br>
+[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105572)<br>
 
 ### 2022
-<!-- FY2022 -->
-[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103547)<br>
-[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103752)<br>
+[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105281)<br>
 [Primary factor shares over time](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103880)<br>
+[Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103752)<br>
+[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103547)<br>
