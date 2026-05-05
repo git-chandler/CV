@@ -34,7 +34,7 @@ ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers 
 [Farm share components](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=108346)<br>
 [Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=108731)<br>
 [Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=109072)<br>
-[Food manufacturing](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110211)<br>
+[Food manufacturing](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110211)
 <!-- FY2024 -->
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110378)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=110567)<br>
