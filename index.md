@@ -2,6 +2,16 @@
 title: James Chandler Zachary
 ---
 
+## Education
+MA, Economics
+MS, Statistics
+CU Denver (University of Colorado Denver)
+Graduated May, 2020
+
+BS, Economics
+Purdue University, West Lafayette, IN
+Graduated May, 2008
+
 ## Journal Articles
 Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consumer food consumption and acquisition since the onset of the COVID-19 pandemic. Applied Economic Perspectives and Policy, 47(4): 1276–1297. <https://doi.org/10.1002/aepp.13529>
 
