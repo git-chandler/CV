@@ -3,8 +3,7 @@ title: James Chandler Zachary
 ---
 
 ## Education
-MA, Economics<br>
-MS, Statistics<br>
+MA, Economics and MS, Statistics<br>
 CU Denver (University of Colorado Denver)<br>
 Graduated May, 2020<br>
 
