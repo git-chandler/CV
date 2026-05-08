@@ -1,7 +1,7 @@
 ---
 title: James Chandler Zachary
 ---
-Houston, TX \| [stats.chandler@gmail.com](mailto:stats.chandler@gmail.com)
+Houston, TX \| [stats.chandler@gmail.com](mailto:stats.chandler@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a42)
 
 ## Education
 **MA, Economics and MS, Statistics**<br>
