@@ -9,7 +9,13 @@ Graduated May, 2020<br>
 
 BS, Economics<br>
 Purdue University, West Lafayette, IN<br>
-Graduated May, 2008<br>
+Graduated May, 2008
+
+## Work History
+**Economist** USDA Economic Research Service, 2021–Present<br>
+Survey Statistician, USDA National Agricultural Statistics Service, 2020–2021<br>
+Data Science Intern, Elevations Credit Union
+
 
 ## Journal Articles
 Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consumer food consumption and acquisition since the onset of the COVID-19 pandemic. Applied Economic Perspectives and Policy, 47(4): 1276–1297. <https://doi.org/10.1002/aepp.13529>
