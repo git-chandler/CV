@@ -13,10 +13,8 @@ West Lafayette, IN<br>
 Graduated May, 2008
 
 ## Work History
-**Economist**<br>
-USDA Economic Research Service<br>
+**Economist** | USDA Economic Research Service : October 2021–Present<br>
 Hoouston, TX<br>
-October 2021–Present<br>
 
 **Survey Statistician**<br>
 USDA National Agricultural Statistics Service<br>
