@@ -3,29 +3,34 @@ title: James Chandler Zachary
 ---
 
 ## Education
-MA, Economics and MS, Statistics<br>
+**MA, Economics and MS, Statistics**<br>
 CU Denver (University of Colorado Denver)<br>
 Graduated May, 2020<br>
 
-BS, Economics<br>
-Purdue University, West Lafayette, IN<br>
+**BS, Economics**<br>
+Purdue University<br>
+West Lafayette, IN<br>
 Graduated May, 2008
 
 ## Work History
 **Economist**<br>
 USDA Economic Research Service<br>
+Hoouston, TX<br>
 October 2021–Present<br>
 
 **Survey Statistician**<br>
 USDA National Agricultural Statistics Service<br>
+Austin, TX<br>
 September 2020–October 2021<br>
 
 **Data Science Intern**<br>
-Elevations Credit Union, Broomfield, Colorado<br>
+Elevations Credit Union<br>
+Broomfield, Colorado<br>
 June–August 2019<br>
 
 **Compliance Analyst**<br>
-First Republic Securities Company, San Francisco, California<br>
+First Republic Securities Company<br>
+San Francisco, California<br>
 June 2015–July 2017
 
 ## Journal Articles
