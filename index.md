@@ -54,7 +54,6 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 
 ### **Amber Waves**
 [ERS Food Dollar's Three Series Show Distributions of U.S. Food Production Costs](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)<br>
-
 [ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers](https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers)
 
 ### **Charts of Note**
