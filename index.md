@@ -16,8 +16,8 @@ Graduated May, 2008
 ## Work History
 **Economist**<br>
 USDA Economic Research Service<br>
-October 2021–Present<br>
 Houston, Texas<br>
+October 2021–Present<br>
 
 **Survey Statistician**<br>
 USDA National Agricultural Statistics Service<br>
