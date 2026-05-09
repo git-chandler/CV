@@ -40,7 +40,7 @@ Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consu
 Rehkamp, S., & Zachary, J.C. (2024). Estimating U.S. Subnational Freshwater Withdrawals by Water Use Category from 1995 to 2021. Water Resources Management, 38(14): 5615-5628. <https://doi.org/10.1007/s11269-024-03924-7>
 
 ## Economic Research Service Outputs
-### **Web products**
+### **Web and data products**
 [Food Dollar](https://www.ers.usda.gov/data-products/food-dollar)<br>
 [Food and Beverage Manufacturing](https://www.ers.usda.gov/topics/food-markets-prices/processing-marketing/food-and-beverage-manufacturing)
 
