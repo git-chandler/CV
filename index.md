@@ -1,7 +1,7 @@
 ---
 title: James Chandler Zachary
 ---
-Houston, TX \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a42)<br>
+Houston, Texas \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a42)<br>
 [stats.chandler@gmail.com](mailto:stats.chandler@gmail.com) 
 
 ## Education
@@ -11,18 +11,18 @@ Graduated May, 2020<br>
 
 **BS, Economics**<br>
 Purdue University<br>
-West Lafayette, IN<br>
+West Lafayette, Indiana<br>
 Graduated May, 2008
 
 ## Work History
 **Economist**<br>
 USDA Economic Research Service<br>
 October 2021–Present<br>
-Houston, TX<br>
+Houston, Texas<br>
 
 **Survey Statistician**<br>
 USDA National Agricultural Statistics Service<br>
-Austin, TX<br>
+Austin, Texas<br>
 September 2020–October 2021<br>
 
 **Data Science Intern**<br>
