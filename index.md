@@ -53,7 +53,7 @@ Rehkamp, S., **Zachary, J.C.**, Baker, Q., & Canning, P. (2026). Documentation f
 Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Linking Resource Flows to Economic Sectors in the United States (Report No. TB-1972). U.S. Departent of Agriculture, Economic Research Service. <https://doi.org/10.32747/2025.9458840.ers>
 
 ### **Amber Waves**
-[ERS Food Dollar's Three Series Show Distributions of U.S. Food Production Costs](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)
+[ERS Food Dollar's Three Series Show Distributions of U.S. Food Production Costs](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)<br>
 
 [ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers](https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers)
 
