@@ -45,9 +45,9 @@ Rehkamp, S., & Zachary, J.C. (2024). Estimating U.S. Subnational Freshwater With
 [Food and Beverage Manufacturing](https://www.ers.usda.gov/topics/food-markets-prices/processing-marketing/food-and-beverage-manufacturing)
 
 ### **Reports**
-Baker, Q., & **Zachary, J.C.** (2026). A More Detailed Food Dollar: Enhanced Accounting of U.S. Food Costs (Report No. ERR-357). U.S. Department of Agriculture, Economic Research Service. <https://ers.usda.gov/sites/default/files/_laserfiche/publications/113905/ERR-357.pdf?v=89440>
+Baker, Q., & **Zachary, J.C.** (2026). A More Detailed Food Dollar: Enhanced Accounting of U.S. Food Costs (Report No. ERR-357). U.S. Department of Agriculture, Economic Research Service. <https://doi.org/10.32747/2026.9460428.ers>
 
-Rehkamp, S., **Zachary, J.C.**, Baker, Q., & Canning, P. (2026). Documentation for the Agri-Food Economic Data System (Ag-FEDS): Multiplier Model Applications (Report No. TB-1974). U.S. Department of Agriculture, Economic Research Service. <https://ers.usda.gov/sites/default/files/_laserfiche/publications/113877/TB-1974.pdf?v=27007>
+Rehkamp, S., **Zachary, J.C.**, Baker, Q., & Canning, P. (2026). Documentation for the Agri-Food Economic Data System (Ag-FEDS): Multiplier Model Applications (Report No. TB-1974). U.S. Department of Agriculture, Economic Research Service. <https://doi.org/10.32747/2026.9460429.ers>
 
 Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Linking Resource Flows to Economic Sectors in the United States (Report No. TB-1972). U.S. Departent of Agriculture, Economic Research Service. <https://doi.org/10.32747/2025.9458840.ers>
 
@@ -57,6 +57,7 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 
 ### **Charts of Note**
 #### 2026
+[Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114103)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114091)<br>
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)
 
