@@ -6,6 +6,7 @@ Houston, Texas \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a
 ## Education
 **MA, Economics and MS, Statistics**<br>
 CU Denver (University of Colorado Denver)<br>
+Denver, Colorado<br>
 Graduated May, 2020<br>
 
 **BS, Economics**<br>
