@@ -57,7 +57,7 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 
 ### **Charts of Note**
 #### 2026
-[Primary factor bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114103)<br>
+[Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114103)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114091)<br>
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)
 
