@@ -1,37 +1,22 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Chandler Zachary",
+  "label": "Economist",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "stats.chandler@gmail.com",
+    "location": "Houston, TX, United States"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-  "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
-      "svg_path": "img/linkedin.svg"
-    },
-    {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chandler-zachary-3bb88a42"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "USDA Economic Research Service",
+      "position": "Economist",
+      "url": "https://www.ers.usda.gov/",
+      "start_date": "October 2021",
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
@@ -41,11 +26,36 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
+      "company": "USDA National Agricultural Statistics Service",
+      "position": "Survey Statistician",
+      "url": "https://www.nass.usda.gov/",
+      "start_date": "September 2020",
+      "end_date": "October 2021",
+      "summary": "Short summary about previous job and what that position entailed",
+      "highlights": [
+        "First Duty of Previous Job",
+        "Second Duty of Previous Job",
+        "Third Duty of Previous Job"
+      ]
+    },
+    {
+      "company": "Elevations Credit Union",
+      "position": "Data Science Intern",
+      "url": "https://www.elevationscu.com/",
+      "start_date": "June 2019",
+      "end_date": "August 2019",
+      "summary": "Short summary about previous job and what that position entailed",
+      "highlights": [
+        "First Duty of Previous Job",
+        "Second Duty of Previous Job",
+        "Third Duty of Previous Job"
+      ]
+    },
+    {
+      "company": "First Republic Securities Company",
+      "position": "Compliance Analyst",
+      "start_date": "June 2015",
+      "end_date": "July 2017",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
         "First Duty of Previous Job",
@@ -103,58 +113,24 @@
         }
       ]
     }
-  ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
-    }
-  ],
+  ]
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "CU Denver (University of Colorado Denver)",
+      "location": "Denver Colorado",
+      "url": "https://www.ucdenver.edu/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master of Arts in Economics",
+        "Master of Science in Statistics"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "graduation_date": "May, 2020"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "Purdue University",
+      "location": "West Lafayette, IN",
+      "url": "https://www.purdue.edu/",
+      "degrees": ["Bachelor of Science in Economics"],
+      "graduation_date": "May, 2008"
     }
   ],
   "skills": [
@@ -167,58 +143,6 @@
       "name": "My Second Skill",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
-    }
-  ],
-  "interests": [
-    {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
-    },
-    {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
-    }
-  ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
     }
   ]
 }
