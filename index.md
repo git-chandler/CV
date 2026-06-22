@@ -3,37 +3,38 @@ title: James Chandler Zachary
 ---
 Houston, Texas \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a42) \| [stats.chandler@gmail.com](mailto:stats.chandler@gmail.com) 
 
+## Progamming Experience
+- Python
+  - Pandas for data manipualation and cleaning, as well as time series modeling
+  - Numpy, SciPy, and Statsmodels for statistical and econometric modeling and mathematical computing
+  - Matplotlib, Seaborn, Plotly, and Shiny for data visualization and presentation
+  - Building pipelines and workflows for research projects
+- R for data manipulation, analysis, and visualization with Ggplot2
+- Stata for data manipulation, analysis, and econometric modeling
+- GAMS for mathematical programming and optimization
+- MS T-SQL for managing data infrastructure to support research projects
+
 ## Education
-**MA, Economics and MS, Statistics**<br>
-CU Denver (University of Colorado Denver)<br>
+**MA, Economics and MS, Statistics** \| CU Denver (University of Colorado Denver)<br>
 Denver, Colorado<br>
 Graduated May, 2020<br>
 
-**BS, Economics**<br>
-Purdue University<br>
+**BS, Economics** \| Purdue University<br>
 West Lafayette, Indiana<br>
 Graduated May, 2008
 
 ## Work History
-**Economist**<br>
-USDA Economic Research Service<br>
-Houston, Texas<br>
-October 2021–Present<br>
+**Economist** \| [USDA Economic Research Service](https://www.ers.usda.gov/) \| Houston, Texas<br>
+October, 2021–Present<br>
 
-**Survey Statistician**<br>
-USDA National Agricultural Statistics Service<br>
-Austin, Texas<br>
-September 2020–October 2021<br>
+**Survey Statistician** \| [USDA National Agricultural Statistics Service](https://www.nass.usda.gov/) \| Austin, Texas<br>
+September, 2020–October, 2021<br>
 
-**Data Science Intern**<br>
-Elevations Credit Union<br>
-Broomfield, Colorado<br>
-June–August 2019<br>
+**Data Science Intern** \| [Elevations Credit Union](https://www.elevationscu.com/) \| Broomfield, Colorado<br>
+June–August, 2019<br>
 
-**Compliance Analyst**<br>
-First Republic Securities Company<br>
-San Francisco, California<br>
-June 2015–July 2017
+**Compliance Analyst** \| First Republic Securities Company \| San Francisco, California<br>
+June, 2015–July, 2017
 
 ## Journal Articles
 Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consumer food consumption and acquisition since the onset of the COVID-19 pandemic. Applied Economic Perspectives and Policy, 47(4): 1276–1297. <https://doi.org/10.1002/aepp.13529>
