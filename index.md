@@ -8,7 +8,7 @@ Houston, Texas \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a
   - Pandas for data manipualation and cleaning, as well as time series modeling
   - Numpy, SciPy, and Statsmodels for statistical and econometric modeling and mathematical computing
   - Matplotlib, Seaborn, Plotly, and Shiny for data visualization and presentation
-  - Building pipelines and workflows for research projects
+  - Package development to support research and data workflows
 - R for data manipulation, analysis, and visualization with Ggplot2
 - Stata for data manipulation, analysis, and econometric modeling
 - GAMS for mathematical programming and optimization
