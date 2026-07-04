@@ -68,10 +68,10 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)<br>
 
 ## Education
-**MA, Economics and MS, Statistics** \| CU Denver (University of Colorado Denver)<br>
+**MA, Economics and MS, Statistics** \| [University of Colorado Denver](https://www.ucdenver.edu/) (CU Denver)<br>
 Denver, Colorado<br>
 Graduated May, 2020<br>
 
-**BS, Economics** \| Purdue University<br>
+**BS, Economics** \| [Purdue University](https://www.purdue.edu/)<br>
 West Lafayette, Indiana<br>
 Graduated May, 2008<br>
