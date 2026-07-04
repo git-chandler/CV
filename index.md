@@ -60,12 +60,12 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 
 ### **Economics Research Service web and data products**
 [Food Dollar](https://www.ers.usda.gov/data-products/food-dollar)<br>
-[Food and Beverage Manufacturing](https://www.ers.usda.gov/topics/food-markets-prices/processing-marketing/food-and-beverage-manufacturing)
+[Food and Beverage Manufacturing](https://www.ers.usda.gov/topics/food-markets-prices/processing-marketing/food-and-beverage-manufacturing)<br>
 [ERS Food Dollar's Three Series Show Distributions of U.S. Food Production Costs](https://www.ers.usda.gov/amber-waves/2023/december/ers-food-dollar-s-three-series-show-distributions-of-u-s-food-production-costs)<br>
-[ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers](https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers)
+[ERS Data Products Show Food-At-Home Price Inflation From Producers to Consumers](https://www.ers.usda.gov/amber-waves/2023/july/ers-data-products-show-food-at-home-price-inflation-from-producers-to-consumers)<br>
 [Food-at-home and food-away-from-home marketing bills](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114103)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114091)<br>
-[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)
+[Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=114074)<br>
 
 ## Education
 **MA, Economics and MS, Statistics** \| CU Denver (University of Colorado Denver)<br>
@@ -74,4 +74,4 @@ Graduated May, 2020<br>
 
 **BS, Economics** \| Purdue University<br>
 West Lafayette, Indiana<br>
-Graduated May, 2008
+Graduated May, 2008<br>
