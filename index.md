@@ -14,27 +14,36 @@ Houston, Texas \| [LinkedIn](https://www.linkedin.com/in/chandler-zachary-3bb88a
 - GAMS for mathematical programming and optimization
 - MS T-SQL for managing data infrastructure to support research projects
 
-## Education
-**MA, Economics and MS, Statistics** \| CU Denver (University of Colorado Denver)<br>
-Denver, Colorado<br>
-Graduated May, 2020<br>
-
-**BS, Economics** \| Purdue University<br>
-West Lafayette, Indiana<br>
-Graduated May, 2008
-
 ## Work History
 **Economist** \| [USDA Economic Research Service](https://www.ers.usda.gov/) \| Houston, Texas<br>
 October, 2021–Present<br>
+- Co-led annual estimation and maintenance of Food Dollar and Agri-Food Economic Data System data and web products
+- Contributed to building data workflows with Python and MS SQL Server to streamline annual estimation and updating of data products
+- Managed data resources, infrastructure, and dependencies for analysis, web products, and publications with MS SQL Server databases, Python workflows, and Git version control
+- Authored and co-authored web articles and data visualizations using Tableau, Python, and R to convey research findings and economic insights to wide audiences
+- Conducted regression analysis and hypothesis testing of economic data using Stata, R, and Python and public data sets
+- Identified relevant data resources and supporting literature when preparing research hypotheses, empirical methods, and analyses for publication
+- Co-authored 2 journal articles and 3 ERS reports
+- Presented work at 2 Agricultural and Applied Economics Association summer meetings
 
 **Survey Statistician** \| [USDA National Agricultural Statistics Service](https://www.nass.usda.gov/) \| Austin, Texas<br>
 September, 2020–October, 2021<br>
+- Collated and distributed survey materials to agricultural producers
+- Conducted first-line review and processing of survey responses and imputed data from non-responders
+- Summarized cross-sectional and time series survey data and tabulated results using SAS and R
+- Prepared estimates and presented results to agency leadership and stakeholders
 
 **Data Science Intern** \| [Elevations Credit Union](https://www.elevationscu.com/) \| Broomfield, Colorado<br>
 June–August, 2019<br>
+- Developed and tested machine learning models to predict customer attrition using Python and R
+- Used SQL queries to gather data from internal sources
+- Prepared reports and visualizations using Python and R to illustrate statistical concepts
 
 **Compliance Analyst** \| First Republic Securities Company \| San Francisco, California<br>
 June, 2015–July, 2017
+- "Prepared monthly and quarterly reports to apprise senior management of compliance and supervision program",
+- Maintained compliance and supervision policies and procedures according to federal and state securities rules and regulations",
+- Collaborated with stakeholders across departments to identify opportunities for improvements in compliance and supervision policies and procedure
 
 ## Journal Articles
 Marchesi, K., & Zachary, J.C. (2025). Investigating the lasting changes in consumer food consumption and acquisition since the onset of the COVID-19 pandemic. Applied Economic Perspectives and Policy, 47(4): 1276–1297. <https://doi.org/10.1002/aepp.13529>
@@ -87,6 +96,15 @@ Rehkamp, S., Canning, P., Gomez, M.I., **Zachary, J.C.**, & Baker, Q. (2025). Li
 
 #### 2022
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=105281)<br>
+
+## Education
+**MA, Economics and MS, Statistics** \| CU Denver (University of Colorado Denver)<br>
+Denver, Colorado<br>
+Graduated May, 2020<br>
+
+**BS, Economics** \| Purdue University<br>
+West Lafayette, Indiana<br>
+Graduated May, 2008
 [Primary factor shares over time](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103880)<br>
 [Industry group bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103752)<br>
 [Marketing bill](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=103547)<br>
