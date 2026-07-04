@@ -20,9 +20,14 @@
       "end_date": "Present",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Co-authored 2 journal articles and 3 ERS reports",
+        "Presented work at 2 Agricultural and Applied Economics Association summer meetings",
+        "Co-led annual estimation and maintenance of Food Dollar and Agri-Food Economic Data System data and web products",
+        "Authored and co-authored web articles and data visualizations using Tableau, Python, and R to convey research findings and economic insights to wide audiences",
+        "Conducted regression analysis and hypothesis testing of economic data using Stata, R, and Python and public data sets",
+        "Contributed to building data workflows with Python and MS SQL Server to streamline annual estimation and updating of data products",
+        "Managed data resources, infrastructure, and dependencies for analysis, web products, and publications with MS SQL Server databases, Python workflows, and Git version control",
+        "Identified relevant data resources and supporting literature when preparing research hypotheses, empirical methods, and analyses for publication"
       ]
     },
     {
@@ -33,9 +38,10 @@
       "end_date": "October 2021",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Collated and distributed survey materials to agricultural producers",
+        "Conducted first-line review and processing of survey responses and imputed data from non-responders",
+        "Summarized cross-sectional and time series survey data and tabulated results using SAS and R",
+        "Prepared estimates and presented results to agency leadership and stakeholders"
       ]
     },
     {
@@ -46,9 +52,9 @@
       "end_date": "August 2019",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed and tested machine learning models to predict customer attrition using Python and R",
+        "Used SQL queries to gather data from internal sources",
+        "Prepared reports and visualizations using Python and R to illustrate statistical concepts"
       ]
     },
     {
@@ -58,17 +64,17 @@
       "end_date": "July 2017",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Prepared monthly and quarterly reports to apprise senior management of compliance and supervision program",
+        "Maintained compliance and supervision policies and procedures according to federal and state securities rules and regulations",
+        "Collaborated with stakeholders across departments to identify opportunities for improvements in compliance and supervision policies and procedure"
       ]
     }
   ],
-  "projects": [
+  "Work samples": [
     {
-      "title": "My First Project",
+      "title": "Baker, Q., & Zachary, J.C. (2026). A More Detailed Food Dollar: Enhanced Accounting of U.S. Food Costs (Report No. ERR-357). U.S. Department of Agriculture, Economic Research Service.",
+      "url": "https://doi.org/10.32747/2026.9460428.ers",
       "summary": "Short summary about my first project",
-      "url": "https://sample.com",
       "highlights": [
         "First Highlight of Project One",
         "Second Highlight of Project One",
@@ -78,21 +84,13 @@
         {
           "img_path": "https://picsum.photos/600/338?random=1",
           "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
         }
       ]
     },
     {
-      "title": "My Second Project",
+      "title": "Marchesi, K., & Zachary, J.C. (2025). Investigating the Lasting Changes in Consumer Food Consumption and Acquisition Since the Onset of the COVID-19 Pandemic. Applied Economic Perspectives and Policy, 47(4), 1276–1297.",
+      "url": "https://doi.org/10.1002/aepp.13529",
       "summary": "Short summary about my second project",
-      "url": "https://sample.com",
       "highlights": [
         "First Highlight of Project Two",
         "Second Highlight of Project Two",
@@ -102,22 +100,46 @@
         {
           "img_path": "https://picsum.photos/600/338?random=4",
           "caption": "Image Caption 4"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Rehkamp, S. & Zachary, J.C. (2024). Estimating U.S. Subnational Freshwater Withdrawals by Water Use Category from 1995 to 2021. Water Resources Management, 38(14): 5615-5628.",
+      "url": "https://doi.org/10.1007/s11269-024-03924-7",
+      "summary": "Short summary about my second project",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        }
+      ]
+    },
+    {
+      "title": "USDA Economic Research Service Food Dollar and Agri-food Economic Data System",
+      "url": "https://www.ers.usda.gov/data-products/food-dollar",
+      "summary": "Short summary about my second project",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
         }
       ]
     }
-  ]
+  ],
   "education": [
     {
-      "institution": "CU Denver (University of Colorado Denver)",
-      "location": "Denver Colorado",
+      "institution": "University of Colorado Denver(CU Denver)",
+      "location": "Denver, Colorado",
       "url": "https://www.ucdenver.edu/",
       "degrees": [
         "Master of Arts in Economics",
